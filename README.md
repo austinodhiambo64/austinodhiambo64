@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**austinodhiambo64/austinodhiambo64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 I'm Austin Odhiambo, a (student) full-stack web developer with a passion for creating beautiful and functional web applications.
 
