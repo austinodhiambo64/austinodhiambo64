@@ -26,6 +26,6 @@ Thank you for visiting my profile!
                             PostgreSQL, MySQL, MongoDB
                             Git, GitHub, Heroku_
 - 👯 I’m looking to collaborate on full stack efficient and responsive websites and web applications
-- 📫 How to reach me: Feel free to reach out at my mail austinodhiambi64@gmail.com
+- 📫 How to reach me: Feel free to reach out at my mail austinodhiambo64@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Why did the programmer quit his job? He didn't get arrays.
